@@ -1,2 +1,2 @@
 # Diabetes_Risk_Prediction
-https://diabetes-risk-prediction-11.onrender.com/
+https://diabetes-risk-prediction-5-rggi.onrender.com/
